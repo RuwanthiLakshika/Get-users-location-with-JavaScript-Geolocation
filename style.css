@@ -1,0 +1,9 @@
+.find-state{
+    margin: 50px;
+    padding: 20px 40px;
+    border: 30px solid #c2c2c7;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
